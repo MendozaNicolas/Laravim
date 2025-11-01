@@ -1,0 +1,7 @@
+# Archivos de Neovim que no queremos versionar
+nvim/lazy-lock.json
+nvim/.luarc.json
+
+# Datos sensibles
+*.log
+.env
