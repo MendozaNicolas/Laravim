@@ -11,8 +11,8 @@ Configuración personalizada para desarrollo en PHP (Laravel), C, C++ y C# (Unit
 
 ## Instalación rápida
 ```bash
-git clone https://github.com/TU_USUARIO/dotfiles.git ~/dotfiles
-cd ~/dotfiles
+git clone https://github.com/nmendoza/laravim.git ~/laravim
+cd ~/laravim
 ./install.sh
 ```
 
